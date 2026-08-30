@@ -1,4 +1,4 @@
-# Ola 👋Eu sou Paulo Henrique L. Rodrigues
+# Ola 👋 Eu sou Paulo Henrique L. Rodrigues
 
 🎓 Sou estudante da área de tecnologia e desenvolvimento de software.
 
